@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\d7ccc65b9f4cf6cef30fa952a019bc23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\47dbe62c4e1929f6decebde9e704f2e2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\ffd59491222df7717dad3b322c505194\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\ec4dcc302a043b2f02575cead24163db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\08a9fb64acf9a40395ecadd318e74c57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\be0ee4c1dcd0ded30871ab6a6ee137f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\963e3cf8bb2a17c71ad07e4f66d1ff79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\91f9be453e30e923f7307e13c410789d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\befe5fcfe17f82fa80b8699bdeee0be0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\8184014815f92e11a8e950804b2cce48\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\789a27feef3dc658a64ec0ff12712db7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\4f5501eb61b557952ef1b6a03b9015fa\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\47dbe62c4e1929f6decebde9e704f2e2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\47dbe62c4e1929f6decebde9e704f2e2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\d7ccc65b9f4cf6cef30fa952a019bc23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\d7ccc65b9f4cf6cef30fa952a019bc23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\47dbe62c4e1929f6decebde9e704f2e2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\47dbe62c4e1929f6decebde9e704f2e2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\ffd59491222df7717dad3b322c505194\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\ffd59491222df7717dad3b322c505194\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\ec4dcc302a043b2f02575cead24163db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\ec4dcc302a043b2f02575cead24163db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\08a9fb64acf9a40395ecadd318e74c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\08a9fb64acf9a40395ecadd318e74c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\be0ee4c1dcd0ded30871ab6a6ee137f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\be0ee4c1dcd0ded30871ab6a6ee137f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\963e3cf8bb2a17c71ad07e4f66d1ff79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\963e3cf8bb2a17c71ad07e4f66d1ff79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\91f9be453e30e923f7307e13c410789d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\91f9be453e30e923f7307e13c410789d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\befe5fcfe17f82fa80b8699bdeee0be0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\befe5fcfe17f82fa80b8699bdeee0be0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\8184014815f92e11a8e950804b2cce48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\8184014815f92e11a8e950804b2cce48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\789a27feef3dc658a64ec0ff12712db7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\789a27feef3dc658a64ec0ff12712db7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\4f5501eb61b557952ef1b6a03b9015fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\simon\.gradle\caches\transforms-2\files-2.1\4f5501eb61b557952ef1b6a03b9015fa\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\Desktop\Projects to Upload to GitHub\HelloSharedPrefs\app\src\main\AndroidManifest.xml
